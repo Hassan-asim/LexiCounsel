@@ -1,5 +1,5 @@
 # LexiCounsel: Your AI Legal Advocate
-
+![image alt](https://github.com/Hassan-asim/LexiCounsel/blob/e198ad0c14e014deea5d99007b17f6ad2c565cab/public/screenshot1.jpeg)
 <p align="center">
   <img src="public/screenshot1.jpeg" alt="LexiCounsel Screenshot" width="700">
 </p>
