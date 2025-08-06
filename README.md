@@ -1,7 +1,7 @@
 # LexiCounsel: Your AI Legal Advocate
-![image alt](https://github.com/Hassan-asim/LexiCounsel/blob/e198ad0c14e014deea5d99007b17f6ad2c565cab/public/screenshot1.jpeg)
+
 <p align="center">
-  <img src="public/screenshot1.jpeg" alt="LexiCounsel Screenshot" width="700">
+  <img src="public/5.jpeg" alt="LexiCounsel Screenshot" width="700">
 </p>
 
 **LexiCounsel** is a sophisticated, AI-powered legal assistant built to demystify the complexities of law for everyone. Whether you're a student, a professional, or someone seeking to understand your rights, LexiCounsel provides accessible and insightful legal information. Our mission is to empower users by making legal knowledge more approachable and understandable.
@@ -44,9 +44,9 @@ Here's a glimpse of LexiCounsel in action:
 
 | Light Mode | Dark Mode |
 | :---: | :---: |
-| <img src="public/screenshot1.jpeg" alt="Light Mode 1" width="400"> | <img src="public/screenshot2.jpeg" alt="Dark Mode 1" width="400"> |
-| <img src="public/screenshot4.jpeg" alt="Light Mode 2" width="400"> | <img src="public/screenshot3.jpeg" alt="Dark Mode 2" width="400"> |
-| <img src="public/screenshot5.jpeg" alt="Light Mode 3" width="400"> | <img src="public/screenshot6.jpeg" alt="Dark Mode 3" width="400"> |
+| <img src="public/1.jpeg" alt="Light Mode 1" width="400"> | <img src="public/2.jpeg" alt="Dark Mode 1" width="400"> |
+| <img src="public/4.jpeg" alt="Light Mode 2" width="400"> | <img src="public/3.jpeg" alt="Dark Mode 2" width="400"> |
+| <img src="public/5.jpeg" alt="Light Mode 3" width="400"> | <img src="public/6.jpeg" alt="Dark Mode 3" width="400"> |
 
 ## Getting Started: Running LexiCounsel Locally
 
